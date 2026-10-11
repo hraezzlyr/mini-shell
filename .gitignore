@@ -1,0 +1,5 @@
+# Dir of object files
+/build/
+
+# Executable
+/mini-shell
